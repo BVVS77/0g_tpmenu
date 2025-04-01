@@ -131,5 +131,5 @@ Join the 0Gravity dev community on Discord:
 📘 Full Docs
 For advanced configuration, updates, or visual previews, visit the GitBook:
 
-👉 https://0grav1ty.gitbook.io/zerogravity/0gravity-weapon-lock-or-free
+👉 https://0grav1ty.gitbook.io/zerogravity/teleport-menu
 ```
